@@ -1,0 +1,62 @@
+body{
+    background-color: #fb749d;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+}
+
+h2{
+    color: darkmagenta;
+}
+
+p{
+    color: darkmagenta;
+}
+
+ul{
+    color: darkmagenta;
+}
+
+img{
+    height: 300px;
+}
+
+.box{
+    background-color: gold;
+    border-style: solid;
+    border-color: darkmagenta;
+    text-align: center;
+}
+
+#center{
+    text-align: center;
+}
+
+#float-right{
+    float: right;
+}
+
+#float-left{
+    float: left;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td{
+    color: darkmagenta;
+    padding: 8px;
+    border-bottom: 1px solid black;
+}
+
+tr:nth-child(even){
+    background-color: gold;
+}
+
+.padding{
+    padding: 5px;
+}
